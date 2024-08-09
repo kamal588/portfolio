@@ -1,0 +1,432 @@
+.navbar{
+    background-color: black;
+  height: 115px;
+    margin: -10px;
+  position: relative;
+  bottom: 34px;
+
+}
+
+
+.brand-name{
+   position: relative;
+   right: 31.5cap;
+   top: 30px;
+    font-size: 4cap;
+    
+    
+}
+.hasc{
+    position: relative;
+    left: 50cap;
+   top: 30px;
+    list-style: none;
+}
+.home{
+    transform: translateY(-75px);
+    font-size: 2.5cap;
+    margin-right: 45cap;
+   
+}
+.about{
+    position: relative;
+    bottom: 5.9cap;
+    font-size: 2.5cap;
+    right: 10cap;
+}
+.services{
+   
+    position: relative;
+    bottom: 7.5cap;
+    left: 4cap;
+    font-size: 2.5cap;
+    
+}
+.contact3{
+   position: relative;
+   left: 18cap;
+   bottom: 9cap;
+    font-size: 2.5cap;
+    
+    
+}
+.hero-section{
+   
+    position: relative;
+    top: 20cap;
+    left: 15cap;
+    
+}
+.heroo{
+    margin-right: 90cap;
+    transform: translateY(-350px);
+    
+}
+.hero{
+    margin-left:20cap;
+   transform: translateY(-60px);
+    
+   
+}
+.image1{
+    width: 500px;
+    height: auto;
+
+}
+.hi{
+    font-size: xx-large;
+    
+}
+.soft{
+    margin-left: 10cap;
+    font-size: xx-large;
+}
+.hire-me{
+    height: 60px;
+    width: 150px;
+    border-radius: 35px;
+    font-weight: bolder;
+    font-size: large;
+    background-color:rgb(101, 41, 211);
+    color: white;
+    margin-left: 10cap;
+}
+/* About-Section */
+.ab2{
+    color:rgb(101, 41, 211);
+}
+.about-section{
+    
+    position: relative;
+    top: 50cap;
+}
+.item13{
+    position: relative;
+    left: 20cap;
+}
+.where{
+    font-size: x-large;
+}
+.about-me{
+   
+    margin-right: 110cap;
+}
+.image2{
+    width: 650px;
+    height: auto;
+}
+.about1{
+    margin-left: 20cap;
+    transform: translateY(-290px);
+    font-size: larger;
+   
+}
+.pass{
+    font-size: 3cap;
+    font-weight: bold;
+    margin-left: -18cap;
+}
+.deve{
+    font-size: 3cap;
+    font-weight: bold;
+    margin-left: 2cap;
+  
+}
+/* About-Section */
+
+/*  Services-Section */
+.services-section{
+    position: relative;
+    top: 72cap;
+}
+.item1{
+    font-size: x-large;
+}
+.item{
+    position: relative;
+    left: 9.5cap;
+}
+.item3{
+    color:rgb(101, 41, 211);
+    
+}
+.item4{
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    width: 200px;
+    border-radius: 30px;
+    position: relative;
+    left: 50cap;
+    top: 3.4cap;
+    height: 150px;
+    
+}
+.item5{
+    width: 35%;
+    position: relative;
+    left: 5.7cap;
+    top: 2cap;
+    
+}
+.item6{
+    font-size: x-large;
+    position: relative;
+    top: 3.5cap;
+    right: 2.1cap;
+    color: black;
+    font-weight: bold;
+    
+}
+.item7{
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    width: 200px;
+    border-radius: 30px;
+    position: relative;
+    height: 150px;
+    left: 72cap;
+    bottom: 12.7cap;
+   
+    
+
+}
+.item8{
+    width: 35%;
+    position: relative;
+    top: 2cap;
+    left: 5cap;
+}
+.item9{
+    font-size: x-large;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 3.5cap;
+    right: 2.2cap;
+
+}
+.item10{
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    width: 200px;
+    border-radius: 30px;
+    position: relative;
+    height: 150px;
+    left: 94cap;
+    bottom: 28.6cap;
+   
+}
+.item11{
+    width: 35%;
+    position: relative;
+    top: 2cap;
+    left: 4cap;
+    
+   
+}
+.item12{
+    font-size: x-large;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 3.5cap;
+    right: 2.5cap;
+}
+/*Services-Section*/
+
+/* Contact-Section */
+.contact-section{
+    background-color:rgb(3, 10, 60);
+    border-radius: 50px;
+    height: 600px;
+    width: 60cap;
+    position: relative;
+    left: 63cap;
+    top: 99cap;
+}
+.contant {
+   
+    font-size: xx-large;
+    margin-top: 50px;
+    color: rgb(255, 255, 255);
+
+}
+.firstname{
+    color: rgb(101, 41, 211);
+    position: relative;
+    top: 1.3cap;
+    right: 10cap;
+    font-weight: bolder;
+    font-size: larger;
+   
+
+    
+}
+.fn {
+    width: 190px;
+    height: 35px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: larger;
+   
+
+}
+.star{
+    color: rgb(255, 255, 255);
+}
+.lastname{
+    color: rgb(101, 41, 211);
+    
+    position: relative;
+    left: 13cap;
+    bottom: 5cap;
+    font-weight: bolder;
+    font-size: larger;
+}
+.ln{
+    width: 190px;
+    height: 35px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: larger;
+    
+}
+
+
+.email{
+    color: rgb(101, 41, 211);
+    position: relative;
+    bottom: 4cap;
+    right: 10cap;
+    font-weight: bolder;
+    font-size: larger;
+}
+.em{
+    width: 310px;
+    height: 35px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: larger;
+}
+.phone{
+    color: rgb(101, 41, 211);
+   
+    position: relative;
+    bottom: 10.4cap;
+    left: 13cap;
+    font-weight: bolder;
+    font-size: larger;
+    
+}
+.ph{
+    width: 190px;
+    height: 34px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: larger;
+}
+.text{
+    color: rgb(101, 41, 211);
+    transform: translatey(-120px);
+    font-weight: bolder;
+    font-size: larger;
+    
+    
+
+}
+.te{
+    width: 400px;
+    height: 200px;
+    font-size: xx-large;
+}
+.submit{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 8.5cap;
+    right: 2.5cap;
+    font-size: larger;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+}
+    
+.reset{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 8.5cap;
+    left: 2.5cap;
+    font-size: larger;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+}
+/* Contact-Section */
+
+/* Footer Section */
+.footer-section{
+    position: relative;
+    top: 150cap;
+}
+.brand-name1{
+    position: relative;
+    right: 31.5cap;
+    font-size: 4cap;
+}
+.item14{
+    list-style: none;
+    font-size: x-large;
+    position: relative;
+    right: 39cap;
+    
+}
+.home1{
+    margin-bottom: 30px;
+}
+.about2{
+    margin-bottom: 30px;
+}
+.services1{
+    margin-bottom: 30px;
+}
+.contact1{
+    margin-bottom: 30px;
+}
+.item15{
+    position: relative;
+    bottom: 23cap;
+}
+.item16{
+    font-size: x-large;
+    word-spacing: 10px;
+    margin-bottom: 30px;
+}
+.item20{
+   margin-left: 30px;
+}
+.item17{
+    width: 2.5%;
+   
+}    
+.item18{
+    width: 2.5%;
+    margin-left: 30px;
+}    
+.item19{
+    width: 2.5%;
+    margin-left: 30px;
+}  
+.item22{
+    width: 2.5%;
+    margin-left: 30px;
+}  
+.item21{
+    font-size: x-large;
+    /* position: relative;
+    bottom: 10cap;
+    left: 1.5cap; */
+    background-color: black;
+    margin: -8px;
+    
+}
